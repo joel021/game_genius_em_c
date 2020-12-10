@@ -1,0 +1,158 @@
+# depslib dependency file v1.0
+1547042830 source:c:\users\joel\documents\jogo\game.c
+
+1547042830 source:/media/joel/meu_disco/Documentos/ProjetosCodeBlocks/Jogo/game.c
+
+1547237910 source:e:\documentos\projetoscodeblocks\jogo\game.c
+
+1548115877 source:e:\documentos\projetoscodeblocks\jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<allegro.h>
+	"list_operations.c"
+	"game.c"
+
+1547333408 e:\documentos\projetoscodeblocks\jogo\list_data.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<allegro.h>
+
+1548168482 e:\documentos\projetoscodeblocks\jogo\game.c
+
+1547335206 e:\documentos\projetoscodeblocks\jogo\func_main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<allegro.h>
+
+1547156020 source:e:\documentos\projetoscodeblocks\jogo\data.c
+
+1547653198 source:e:\documentos\projetoscodeblocks\jogo\list_data.c
+
+1547335278 source:e:\documentos\projetoscodeblocks\jogo\func_main.c
+
+1547835369 source:e:\documentos\projetoscodeblocks\jogo\list.c
+
+1547835216 e:\documentos\projetoscodeblocks\jogo\list.c
+
+1548115812 e:\documentos\projetoscodeblocks\jogo\list_operations.c
+
+1548442296 source:e:\documentos\projetoscodeblocks\jogogenius\main.c
+	<stdio.h>
+	<stdbool.h>
+	<allegro.h>
+	"list_operations.c"
+	"game.c"
+	"resource.h"
+
+1548115812 e:\documentos\projetoscodeblocks\jogogenius\list_operations.c
+
+1548442341 e:\documentos\projetoscodeblocks\jogogenius\game.c
+
+1548169594 e:\documentos\projetoscodeblocks\jogogenius\resource.h
+
+1548169998 source:e:\documentos\projetoscodeblocks\jogogenius\resource.rc
+	"resource.h"
+
+1548170000 source:e:\documentos\projetoscodeblocks\gamegenius\resource.rc
+	"resource.h"
+
+1548169596 e:\documentos\projetoscodeblocks\gamegenius\resource.h
+
+1550271661 source:e:\documentos\projetoscodeblocks\gamegenius\main.c
+	<stdio.h>
+	<stdbool.h>
+	<allegro.h>
+	"list_operations.c"
+	"main_operations.c"
+	"game.c"
+	"resource.h"
+
+1550183813 e:\documentos\projetoscodeblocks\gamegenius\list_operations.c
+
+1550271654 e:\documentos\projetoscodeblocks\gamegenius\main_operations.c
+
+1550272160 e:\documentos\projetoscodeblocks\gamegenius\game.c
+
+1549072998 source:c:\users\david\downloads\gamegenius-03-02-19-15-56\main.c
+	<stdio.h>
+	<stdbool.h>
+	<allegro.h>
+	"list_operations.c"
+	"main_operations.c"
+	"game.c"
+	"resource.h"
+
+1548115812 c:\users\david\downloads\gamegenius-03-02-19-15-56\list_operations.c
+
+1549247478 c:\users\david\downloads\gamegenius-03-02-19-15-56\main_operations.c
+
+1549229824 c:\users\david\downloads\gamegenius-03-02-19-15-56\game.c
+
+1548169594 c:\users\david\downloads\gamegenius-03-02-19-15-56\resource.h
+
+1548169998 source:c:\users\david\downloads\gamegenius-03-02-19-15-56\resource.rc
+	"resource.h"
+
+1549072998 source:c:\users\david\downloads\gamegenius 04-02-19\main.c
+	<stdio.h>
+	<stdbool.h>
+	<allegro.h>
+	"list_operations.c"
+	"main_operations.c"
+	"game.c"
+	"resource.h"
+
+1548115812 c:\users\david\downloads\gamegenius 04-02-19\list_operations.c
+
+1549651595 c:\users\david\downloads\gamegenius 04-02-19\main_operations.c
+
+1549651614 c:\users\david\downloads\gamegenius 04-02-19\game.c
+
+1548169594 c:\users\david\downloads\gamegenius 04-02-19\resource.h
+
+1548169998 source:c:\users\david\downloads\gamegenius 04-02-19\resource.rc
+	"resource.h"
+
+1549759654 source:e:\documentos\projetoscodeblocks\gamegenius_som\main.c
+	<stdio.h>
+	<stdbool.h>
+	<allegro.h>
+	"list_operations.c"
+	"main_operations.c"
+	"game.c"
+	"resource.h"
+
+1550180708 e:\documentos\projetoscodeblocks\gamegenius_som\list_operations.c
+
+1550181068 e:\documentos\projetoscodeblocks\gamegenius_som\main_operations.c
+
+1550180917 e:\documentos\projetoscodeblocks\gamegenius_som\game.c
+
+1548169596 e:\documentos\projetoscodeblocks\gamegenius_som\resource.h
+
+1548170000 source:e:\documentos\projetoscodeblocks\gamegenius_som\resource.rc
+	"resource.h"
+
+1548170000 source:c:\users\karin\desktop\gamegenius_som\resource.rc
+	"resource.h"
+
+1548169596 c:\users\karin\desktop\gamegenius_som\resource.h
+
+1549759654 source:c:\users\karin\desktop\gamegenius_som\main.c
+	<stdio.h>
+	<stdbool.h>
+	<allegro.h>
+	"list_operations.c"
+	"main_operations.c"
+	"game.c"
+	"resource.h"
+
+1548115814 c:\users\karin\desktop\gamegenius_som\list_operations.c
+
+1550059786 c:\users\karin\desktop\gamegenius_som\main_operations.c
+
+1550060942 c:\users\karin\desktop\gamegenius_som\game.c
+

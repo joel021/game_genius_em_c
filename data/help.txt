@@ -1,0 +1,28 @@
+﻿1. O GENIUS jah vai dar o seu primeiro sinal da sequencia!
+2. O jogo começou: repita o sinal, pressionando a mesma cor informada pelo GENIUS.
+3. GENIUS repetirah a primeira cor e vai acrescentar mais uma.
+4. Repita entao essas duas cores.
+5. Genius repetirah as duas primeiras cores e, na mesma sequencia, aumentarah mais uma.
+6. Continue desta forma, enquanto você conseguir repetir cada sequência de core corretamente.
+7. Observe que GENIUS aumenta o ritmo (velocidade) automaticamente.
+9. Se voce nao repetir alguma sequencia corretamente ou demorar mais de 5 segundos para repetir
+um sinal, GENIUS emitirah um sinal que perdeu. E o sinal da derrota: você perdeu o jogo e a 
+sequencia de sinais acabou.
+ 
+PARA GANHAR DO GENIUS
+Repita o numero de sequencia pra os niveis de habilidade 1, 2 ou 3 e GENIUS vai dar os parabens
+para voce com 6 sinais curtos depois da última lente que voce pressionar. Se voce repetir a
+sequencia de 31 sinais no nível de habilidade 4, o mais dificil deles, voce venceu o GENIUS!
+Ele perdera a memoria e vai dar os parabens para voce e o sinal da derrota para si mesmo!
+ 
+CHAVE DO NÍVEL DE HABILIDADE
+ 
+- Nivel 1: 8 sequencias
+- Nivel 2: 14 sequencias
+- Nivel 3: 20 sequencias
+- Nivel 4: 31 sequencias
+
+Use a teclas cima, baixo, esquerda e direita para selecionar a sequencia de cores.
+Voce podera escolher um nível para iniciar o jogo, porem, voce sera nivelado de acordo com
+a sua ultima pontuacao. Como mostrado, para caDa quantidade de sequencias acertadas, existe
+um nivel..
